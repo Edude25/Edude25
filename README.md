@@ -1,10 +1,10 @@
-- 👋 Hey! I’m @Edude25
-- 👀 I’m interested in games, programation and the nature
-- 🌱 I’m currently learning JavaScript, I'm doing the One Bit Code full-stack curse
-- 💞️ I’m looking to collaborate on a projects, and somethings that teach me and give me experience
-- 📫 How to reach me? My email: Cataldodudu@gmail.com or you can get my number +55 (21)979102967
+# Eduardo Lopes
 
-<!---
-Edude25/Edude25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Developer in development 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Lopes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/eduardo-lopes-4b1aa9228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bi3CMzi%2BvRM%2BaNQw7vZpysw%3D%3D) 
+[![Gmail Badge](https://img.shields.io/badge/-cataldodudu@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cataldodudu@gmail.com)](mailto:cataldodudu@gmail.com)
+
+Doing my best to break my limits, and turn an exelent programmer.
+
+"The mind that opens to a new idea will never return to its original size." | "Nothing in this world beats good old persistence" | "The only way for don't get what you want is to give up" 
