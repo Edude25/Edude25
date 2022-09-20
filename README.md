@@ -7,4 +7,6 @@ Intern at @Crytz-com
 
 Doing my best to break my limits, and turn an exelent programmer.
 
+Have an YouTube chanel for fun @X
+
 "The mind that opens to a new idea will never return to its original size." | "Nothing in this world beats good old persistence" | "The only way for don't get what you want is to give up" 
