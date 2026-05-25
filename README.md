@@ -1,12 +1,25 @@
 # Eduardo Lopes
+Fullcycle dev · Heading my way, building my own future. · Rio de Janeiro
 
-<b>Heading my way, building my own future.</b>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lopes-4b1aa9228)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cataldodudu@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521979102967)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Lopes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/eduardo-lopes-4b1aa9228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bi3CMzi%2BvRM%2BaNQw7vZpysw%3D%3D) 
-[![Gmail Badge](https://img.shields.io/badge/-cataldodudu@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cataldodudu@gmail.com)](mailto:cataldodudu@gmail.com)
+---
+<ul>
+  <li>4 anos no mercado, atuando em diversos projetos de áreas diferentes.</li> 
+  <li>Agora na jornada de ser meu próprio chefe.</li> 
+  <li>Gosto de testar as minhas habilidades resolvendo problemas reais.</li>
+</ul>
 
-Doing my best to break my limits, and having fun in the proccess.
+> *"The mind that opens to a new idea will never return to its original size."*
 
-4 Year of experience in this crazy world
+---
 
-"The mind that opens to a new idea will never return to its original size." | "Nothing in this world beats good old persistence" | "The only way for don't get what you want is to give up"
+**now**  
+building a startup — full cycle, do produto ao código e tudo mais que aparecer pelo caminho.
+
+---
+
+**stack**  
+`TypeScript` `React` `Angular` `React Native` `Python` `Django` `Cloud`
