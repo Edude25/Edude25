@@ -7,7 +7,7 @@ Fullcycle dev · Heading my way, building my own future. · Rio de Janeiro
 
 ---
 <ul>
-  <li>4 anos no mercado, atuando em diversos projetos de áreas diferentes.</li> 
+  <li>5 anos no mercado, atuando em diversos projetos de áreas diferentes.</li> 
   <li>Agora na jornada de ser meu próprio chefe.</li> 
   <li>Gosto de testar as minhas habilidades resolvendo problemas reais.</li>
 </ul>
