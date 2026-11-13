@@ -1,5 +1,6 @@
 # Eduardo Lopes
-Fullcycle dev · Heading my way, building my own future. · Rio de Janeiro
+Passioned Developer · Heading my way, building my own future. · Rio de Janeiro
+AI Engeneering · Web and Mobile Developement · Cloud · Production Maintenance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-lopes-4b1aa9228)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cataldodudu@gmail.com)
@@ -7,7 +8,7 @@ Fullcycle dev · Heading my way, building my own future. · Rio de Janeiro
 
 ---
 <ul>
-  <li>5 anos no mercado, atuando em diversos projetos de áreas diferentes.</li> 
+  <li>5 anos no mercado, atuando em diversos projetos de áreas diferentes.</li>
   <li>Agora na jornada de ser meu próprio chefe.</li> 
   <li>Gosto de testar as minhas habilidades resolvendo problemas reais.</li>
 </ul>
@@ -16,10 +17,15 @@ Fullcycle dev · Heading my way, building my own future. · Rio de Janeiro
 
 ---
 
-**now**  
-building a startup — full cycle, do produto ao código e tudo mais que aparecer pelo caminho.
+**NOW**  
+
+Building Condsys — <breve descrição do que é a condsys>. 
+
+Building Clipsflow - <breve descrição do que é a clipsflow>.
+
+Freelancing - <breve descrição do que vc achar interessante>.
 
 ---
 
 **stack**  
-`TypeScript` `React` `Angular` `React Native` `Python` `Django` `Cloud`
+`TypeScript` `React` `Angular` `React Native` `Python` `Cloud` `MCP Development` `AI agents Development`
